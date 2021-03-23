@@ -1,0 +1,15 @@
+Definiciones:
+
+-Variables: Son sistemas de almacenamiento, parecido a cajas, donde se puede almacenar algun tipo de dato para utilizarlo despues
+
+-Strings: Es texto, donde se juntan letras, numeros o cualquier simbolo para formar alguna palabra u oracion, estas deben ir entre comillas
+
+-Funciones: Son bloques de codigo que nos permite utilizar estos mismos en cualqueir otra parte de nuestro programa sin la necesidad de escribirlo nuevamente
+
+-Argumentos: Son como variables que se le entregan a la funcion para que trabaje con estas
+
+-Return: Esta nos permite retornar algun valor resultado de la funcion utilizada, permitiendo trabajar con este en nuestro codigo principal
+
+-Declaraciones if: Es codigo quer se ejecuta si se cumple la funcion especificada
+
+-Valores booleanos: Son datos que nos permiten saber si algo es cierto o falso

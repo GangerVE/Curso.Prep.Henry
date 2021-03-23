@@ -1,0 +1,9 @@
+Definiciones:
+
+-for: Es un pedazo de codigo que se repite hasta que el contador llegue a un numero predeterminado
+
+-&&: Indica que se toma en cuenta el valor booleano de ambas condiciones, donde ambas deben ser true para que el resultado final sea true, en caso de que alguna o amabas sean false, el resultado final sera false
+
+-||: Indica que se toma en cuenta el valor booleano de ambas condiciones, donde una o ambas deben ser true para que el resultado final sea true, en caso de que ambas sean false, el resultado final sera false
+
+-!: Indica que el valor booleano de algun statement o variable se transformara al valor contrario, si es true pasara a ser false y viceversa
