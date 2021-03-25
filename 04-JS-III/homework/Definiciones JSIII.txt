@@ -1,0 +1,3 @@
+Definiciones
+
+-Arrays: Son variables que pueden contener mas de un dato al mismo tiempo
