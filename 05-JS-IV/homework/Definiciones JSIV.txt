@@ -1,0 +1,13 @@
+Definiciones:
+
+-Objetos: Son un tipo de array que permite espécificar los datos que contiene y manejarlos de manera mas sencilla
+
+-Propiedades: Son los datos que posee un objeto
+
+-Metodos: Son las funciones asignadas a un objeto
+
+-Bucle for...in: Es un bucle cuya condicion consiste en buscar un elemento dentro de un array
+
+-Notacion de puntos vs Notacion de corchetes: La notacion de puntos es mas estricta, ya que, en caso de no existir el atributo, este lo toma como una propiedad
+
+mientras que la notacion de corchetes es mas flexible
