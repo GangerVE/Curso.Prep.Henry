@@ -1,0 +1,5 @@
+Definiciones:
+
+-Prototype: Es una clase superior a la que pertenece alguna clase u objeto
+
+-Constructors: Definen las instancias y metodos que se utilizaran al momento de crear un objeto
