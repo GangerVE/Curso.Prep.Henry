@@ -1,0 +1,3 @@
+Definiciones:
+
+-Funciones CallBacks = Estas permiten llamar una funcion dentro de otra funcion, pasando los parametros necesarios y retornando algun dato
